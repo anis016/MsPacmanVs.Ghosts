@@ -1,6 +1,7 @@
 # Ms. Pacman Vs Ghosts AI
 
 ![N|Solid](https://vignette2.wikia.nocookie.net/pacman/images/d/db/Pacman_VS_Blinky_VS_Inky.png/revision/latest?cb=20120728100950)
+
 source: [http://pacman.wikia.com](http://pacman.wikia.com/wiki/File:Pacman_VS_Blinky_VS_Inky.png)
 
 Ms. Pacman Vs Ghost AI implementations using Monte Carlo approach.
